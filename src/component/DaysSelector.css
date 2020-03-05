@@ -1,0 +1,23 @@
+/* const DAYS = 7;
+const MARGIN = 1;
+
+export const useStyles = makeStyles(() => ({
+	root: {
+		display: 'flex',
+		flexWrap: 'nowrap',
+		justifyContent: 'space-between'
+	},
+	selected: {
+		flex: `0 0 calc(100% / ${DAYS + MARGIN})`,
+		border: border(geyser),
+		color: white,
+		backgroundColor: mountainMeadow,
+		'&:hover': { backgroundColor: mountainMeadow, opacity: 0.8 }
+	},
+	notSelected: {
+		flex: `0 0 calc(100% / ${DAYS + MARGIN})`,
+		border: border(geyser),
+		color: regentGray,
+		backgroundColor: geyser70
+	}
+})); */
